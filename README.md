@@ -1,10 +1,8 @@
 👋 Hi, I’m @mt1022
 
-<!--- - 👀 I’m interested in .
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
+- 👀 I’m interested in evolutionary and systems RNA biology.
+- 🌱 I’m currently learning Rust 🦀.
+
 
 <!---
 mt1022/mt1022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
